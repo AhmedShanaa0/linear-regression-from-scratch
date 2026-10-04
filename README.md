@@ -1,5 +1,7 @@
 # Linear Regression from Scratch (NumPy only)
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/ahmedshanaa/notebookc0cdc703ef)
+
 Multivariate linear regression trained with **gradient descent**, implemented with only NumPy, then checked against the Normal Equation and scikit-learn. Applied to a house price dataset.
 
 ![Loss curve](images/loss_curve.png)
